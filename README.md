@@ -1,9 +1,9 @@
 #coronanuke was bootstrapped with [Create React App]
 
 
-### [Live Preview] (https://www.coronanuke.com/)
+### [Live Site](https://www.coronanuke.com/)
 
-![Web Application] (https://p1.f0.n0.cdn.getcloudapp.com/items/5zuGk8jL/Screen%20Shot%202020-09-10%20at%2012.11.28%20AM.png?source=viewer&v=31f8e979f84de8134dce15cf99850b26)
+![Web Application](https://p1.f0.n0.cdn.getcloudapp.com/items/5zuGk8jL/Screen%20Shot%202020-09-10%20at%2012.11.28%20AM.png?source=viewer&v=31f8e979f84de8134dce15cf99850b26)
 
 ## Available Scripts
 
